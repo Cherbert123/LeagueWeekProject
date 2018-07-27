@@ -64,6 +64,11 @@
     <Compile Include="Assets\Scripts\BlockSpawner.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\ObjectMover.cs" />
+    <Compile Include="Assets\Scripts\ObjectRemover.cs" />
+    <Compile Include="Assets\Scripts\Reseter.cs" />
+    <Compile Include="Assets\Scripts\Ship.cs" />
+    <Compile Include="Assets\Scripts\Spinner.cs" />
+    <Compile Include="Assets\Scripts\StartGUI.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/league/LeagueWeekProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
